@@ -1,1 +1,1 @@
-# FSAI---Financial-System-Coherence-Index
+# FSAI--Structural-Financial-Coherence-Index
